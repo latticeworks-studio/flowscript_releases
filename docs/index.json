@@ -1,0 +1,11 @@
+{
+  "product": "FlowScript",
+  "docs": [
+    { "title": "Getting Started",     "file": "getting-started.md" },
+    { "title": "FlowBar Commands",    "file": "flowbar-commands.md" },
+    { "title": "Node Types",          "file": "node-types.md" },
+    { "title": "Keyboard Shortcuts",  "file": "shortcuts.md" },
+    { "title": "Themes",              "file": "themes.md" },
+    { "title": "Frame Walker Mode",   "file": "frame-walker.md" }
+  ]
+}
